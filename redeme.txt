@@ -3,3 +3,6 @@ THanks for git.
 
 Add the next.
 The first time for regedit this readme.txt !
+
+
+The second test regedit .
