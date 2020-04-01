@@ -1,2 +1,5 @@
 First repository with git!
 THanks for git.
+
+Add the next.
+The first time for regedit this readme.txt !
